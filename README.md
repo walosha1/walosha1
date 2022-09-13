@@ -1,6 +1,6 @@
 ### Hi there, thank you for checking on my repo. Feel free to use any of the project to your own satisfaction 👋
 
-[![Afuye's GitHub stats](https://github-readme-stats.vercel.app/api?username=walosha&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Afuye's GitHub stats](https://github-readme-stats.vercel.app/api?username=walosha1&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -12,7 +12,8 @@ I am **Olawale Afuye**, a senior software engineer.
 - I love Macbook and Linux operating systems
 - 🔭 I use Netlify, Vercel for frontend projects and heroku, digital ocean and aws ( S3, cloudfront,EC2).
 - 👯 I’m looking to collaborate on fun and complex projects that solves human challenges.
-- 💬 Ask me about anything and send me a mail on walosha@yahoo.com.
+- 💬 Ask me about anything and send me a mail on 
+@yahoo.com.
 - 🍍when not coding for work @ ( Prunedge Technologies & Pacific professional company), shoot me an email on hello@pacific-professional.com.ng
 - 📫 How to reach me: 08185431319 (call and whatsapp)
 - 😄 I love to read stuff on life, programming, Music, Movies and entertainment at large
